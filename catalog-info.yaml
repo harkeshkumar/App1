@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: App1
+  annotations:
+    github.com/project-slug: harkeshkumar/App1
+spec:
+  type: other
+  lifecycle: unknown
