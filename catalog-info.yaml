@@ -4,6 +4,7 @@ metadata:
   name: App1
   annotations:
     github.com/project-slug: harkeshkumar/App1
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
